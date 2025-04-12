@@ -52,7 +52,7 @@ I have experience working on a variety of **VLSI Design** projects, such as:
 
 I'm open to collaborations, projects, and opportunities. Let’s connect:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn]([www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pravin-archunan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - [GitHub](https://github.com/your-username)
 - [Email](mailto:pravinpravin9865@gmail.com)
 
