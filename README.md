@@ -30,9 +30,7 @@ Here's a list of the **industry-standard tools** I use for VLSI Design:
   <img src="https://img.shields.io/badge/Transistor level design-FF9800?style=for-the-badge" alt="NGSpice"/>
   <img src="https://img.shields.io/badge/PDK Enviroinment setup-673AB7?style=for-the-badge" alt="Qflow"/>
    <img src="https://img.shields.io/badge/Linux-2196F3?style=for-the-badge" alt="Yosys"/>
-  <img src="https://img.shields.io/badge/Vivado-FFC107?style=for-the-badge" alt="Vivado"/>
-  <img src="https://img.shields.io/badge/GTKWave-009688?style=for-the-badge" alt="GTKWave"/>
-  <img src="https://img.shields.io/badge/Verilog-4CAF50?style=for-the-badge" alt="Verilog"/>
+
 </p>
 
 ---
