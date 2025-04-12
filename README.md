@@ -54,7 +54,7 @@ I'm open to collaborations, projects, and opportunities. Let’s connect:
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [GitHub](https://github.com/your-username)
-- [Email](mailto:your-pravinpravin9865@gmail.com)
+- [Email](mailto:pravinpravin9865@gmail.com)
 
 ---
 
