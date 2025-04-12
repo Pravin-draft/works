@@ -33,18 +33,6 @@ Here's a list of the **industry-standard tools** I use for VLSI Design:
 
 </p>
 
----
-
-## 📚 **Key Projects & Experience**
-
-I have experience working on a variety of **VLSI Design** projects, such as:
-
-- **RTL Design**: Designed digital modules like **adders**, **multipliers**, and **counters** using **Verilog**.
-- **ASIC Design**: Hands-on experience in **timing analysis**, **floorplanning**, **placement**, and **routing** using tools like **Vivado**, **Qflow**.
-- **Analog Design**: Created custom analog circuits and simulations using **Cadence Virtuoso**.
-- **Physical Design**: Worked on **layout design**, **DRC**, **LVS**, and **sign-off** using **Mentor Graphics Calibre**.
-
----
 
 ## 📫 **Connect with Me**
 
@@ -53,37 +41,12 @@ I'm open to collaborations, projects, and opportunities. Let’s connect:
 - [LinkedIn](https://www.linkedin.com/in/pravin-archunan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:pravinpravin9865@gmail.com)
 
----
 
-## 🚀 **Other Interests**
-
-Aside from VLSI design, I am also passionate about:
-
-- **Embedded Systems**
-- **Machine Learning** in **Electronics**
-- **AI-Driven Design Optimization**
-
----
 
 ## 🌟 **Why Work with Me?**
 
-I focus on creating **high-performance designs** for **ASICs** and **FPGA** using the latest **industry-standard tools**. Whether you’re working on a new project or need expert insights, I’m here to help.
+I focus on creating **high-performance designs** for **ASICs** using the latest **industry-standard tools**. Whether you’re working on a new project or need a person insights, I’m here to help.
 
----
 
-> "Building the future of electronics, one design at a time!" ✨
 
----
 
-<style>
-@keyframes slide {
-  0% { color: #1E90FF; transform: translateX(-10px); }
-  50% { color: #00BFFF; transform: translateX(10px); }
-  100% { color: #1E90FF; transform: translateX(-10px); }
-}
-
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
